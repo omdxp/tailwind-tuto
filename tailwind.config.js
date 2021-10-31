@@ -10,6 +10,9 @@ module.exports = {
           200: "#888883",
         },
       },
+      fontFamily: {
+        nunito: ["Nunito", "sans-serif"],
+      },
     },
   },
   variants: {
